@@ -1,0 +1,2 @@
+# Analysis-of-Simple-Moving-Average-SMA-Strategy-on-Bank-nifty-Index-and-Option-Contract-Price-Data-
+The main objective of this Project is to analyse a Simple Moving Average (SMA) strategy on the bank nifty index price data and bank nifty option contract price data for select days in February 2022. The SMA strategy will involve specific entry and exit conditions to execute long and short selling positions.
